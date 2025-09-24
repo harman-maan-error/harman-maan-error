@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harmandeep Singh  
+# 👋 Hi, I'm Harmandeep 
 
 🚀 **Full Stack Developer | Problem Solver | Lifelong Learner**  
 
