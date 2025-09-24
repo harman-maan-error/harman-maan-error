@@ -40,18 +40,10 @@ I’m passionate about building scalable web applications, designing user-friend
 
 ---
 
-## 📈 GitHub Stats  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=light&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=light&hide_border=true)  
-
----
-
 ## 📫 Connect with Me  
 
-- Portfolio: [your-portfolio-link](#)  
-- LinkedIn: [linkedin.com/in/yourusername](#)  
-- Email: [your.email@example.com](mailto:your.email@example.com)  
+- LinkedIn: [[linkedin.com/in/yourusername](https://www.linkedin.com/in/harmandeep-singh-rrc/)](#)  
+- Email: [maan1harman@gmail.com](mailto:maan1harman@gmail.com)  
 
 ---
 
