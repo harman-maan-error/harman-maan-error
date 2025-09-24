@@ -1,16 +1,22 @@
-## Hi there 👋
+##Hi there, I'm Harmandeep! 👋
 
-<!--
-**harman-maan-error/harman-maan-error** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Software Engineer | 🌐 Web Developer
 
-Here are some ideas to get you started:
+#Welcome to my GitHub profile! I'm Harmandeep, an experienced Software Engineer.
+🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#I have a solid background in backend development, software architecture, and big data processing. My tech stack includes:
+
+    JavaScript/TypeScript with Node.js
+    React or Angular for dynamic frontend development
+    GraphQL for efficient backend APIs
+    Databases like PostgreSQL and MySQL
+
+##🏢 Work Experience
+
+
+##📫 Let's Connect!
+
+Feel free to explore my repositories and don't hesitate to connect with me on LinkedIn for collaboration or just a friendly chat!
+
+Thanks for stopping by! 🚀
