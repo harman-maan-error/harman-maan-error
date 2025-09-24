@@ -42,7 +42,7 @@ I’m passionate about building scalable web applications, designing user-friend
 
 ## 📫 Connect with Me  
 
-- LinkedIn: [[linkedin.com/in/harmandeep-singh-rrc](https://www.linkedin.com/in/harmandeep-singh-rrc/)](#)  
+- LinkedIn: [[linkedin.com/in/harmandeep-singh-rrc](https://www.linkedin.com/in/harmandeep-singh-rrc/)]
 - Email: [maan1harman@gmail.com](mailto:maan1harman@gmail.com)  
 
 ---
